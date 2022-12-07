@@ -113,7 +113,7 @@ pacman -S seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/chsaiujwal/seeker.git
 cd seeker/
 pkg update
 pkg install python php
